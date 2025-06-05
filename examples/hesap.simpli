@@ -1,0 +1,4 @@
+degisken a = 5
+degisken b = 3
+yaz topla(a, b)
+yaz carp(a, b)
